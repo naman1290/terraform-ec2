@@ -13,5 +13,5 @@ terraform {
 
 provider "aws" {
   region  = var.region
-  profile = "naman.jain"
+  #profile = "naman.jain"
 }
